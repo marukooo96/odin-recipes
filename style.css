@@ -7,11 +7,18 @@ h1 {
     font-size: 40px;
 }
 
-ul {
-    font-size: 26px;
+.list {
+    font-size: 30px;
 }
 
 a {
     color: brown;
     text-decoration: none;
+}
+
+.muffin {
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
