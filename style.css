@@ -10,6 +10,7 @@ h1 {
 h2 {
     font-size: 30px;
     margin-left: 20px;
+    text-decoration: underline;
 }
 
 p {
@@ -18,6 +19,10 @@ p {
 
 .description {
     margin-left: 20px;
+    border-style: solid;
+    border-color: brown;
+    padding: 10px;
+    background-color: lightsalmon;
 }
 
 .list {
