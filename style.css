@@ -65,3 +65,7 @@ a {
     width: auto;
     height: 280px;
 }
+
+li {
+    margin-bottom:8px;
+}
