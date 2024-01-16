@@ -9,14 +9,20 @@ h1 {
 
 h2 {
     font-size: 30px;
+    margin-left: 20px;
 }
 
 p {
     font-size: 20px;
 }
 
+.description {
+    margin-left: 20px;
+}
+
 .list {
     font-size: 30px;
+    margin-left: 20px;
 }
 
 a {
@@ -49,6 +55,7 @@ a {
 
 .list-recipe {
     font-size: 22px;
+    margin-left: 20px;
 }
 
 .tiramisu {
